@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Sonicyouth"
+baseURL = "https:\/\/www.sonicyouth.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
